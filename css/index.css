@@ -5,7 +5,7 @@
 
 .covid-data-table-wrapper > table > thead th {
   position: sticky;
-  top: 0;
+  top: 1;
   box-shadow: 0 0 0 1px #343a40;
 }
 
