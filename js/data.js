@@ -6,7 +6,7 @@ const covidSchema = {
   lonColumn: 3,
   dateStartColumn: 4,
 };    
-//123123
+//00:18
 const covidDataBaseURL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series';
 
 const confirmedPalette = ['#FF9F40', '#703600', '#D66700', '#FF800A', '#A34E00'];
