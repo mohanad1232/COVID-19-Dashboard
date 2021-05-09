@@ -1,4 +1,4 @@
-
+// Globals 12345.
 
 function useWindowSize() {
   const [width, setWidth] = React.useState(document.documentElement.clientWidth);
