@@ -449,5 +449,5 @@ function Toggle({text, checked, onChange}) {
         e('div', {className: 'form-check-label'}, text)
       )
     )
-  )
+  )    
 }
