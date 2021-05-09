@@ -1,4 +1,4 @@
-// Globals.
+// Globals 123.
 const r = React;
 const rd = ReactDOM;
 const e = r.createElement;
